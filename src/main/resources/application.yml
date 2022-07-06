@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://10.4.52.74\MYNEWSQL;database=plan
+    username: sa
+    password: W991224z
